@@ -1,4 +1,4 @@
-# Journal (Core Data)
+                                                                                                                                                                                                                                                                # Journal (Core Data)
 
 ## Introduction
 
