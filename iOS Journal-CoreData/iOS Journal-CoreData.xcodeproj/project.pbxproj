@@ -18,7 +18,6 @@
 		931AAA002398B68F00BBFB80 /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931AA9FF2398B68F00BBFB80 /* CoreDataStack.swift */; };
 		931AAA032398B85D00BBFB80 /* Entry.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 931AAA012398B85D00BBFB80 /* Entry.xcdatamodeld */; };
 		931AAA052398BA4300BBFB80 /* Entry+Convenience.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931AAA042398BA4300BBFB80 /* Entry+Convenience.swift */; };
-		931AAA072398C89B00BBFB80 /* EntryController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 931AAA062398C89B00BBFB80 /* EntryController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,7 +34,6 @@
 		931AA9FF2398B68F00BBFB80 /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 		931AAA022398B85D00BBFB80 /* Entry.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Entry.xcdatamodel; sourceTree = "<group>"; };
 		931AAA042398BA4300BBFB80 /* Entry+Convenience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Entry+Convenience.swift"; sourceTree = "<group>"; };
-		931AAA062398C89B00BBFB80 /* EntryController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +102,6 @@
 				931AA9FF2398B68F00BBFB80 /* CoreDataStack.swift */,
 				931AAA012398B85D00BBFB80 /* Entry.xcdatamodeld */,
 				931AAA042398BA4300BBFB80 /* Entry+Convenience.swift */,
-				931AAA062398C89B00BBFB80 /* EntryController.swift */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -183,7 +180,6 @@
 				931AA9FC2398B22700BBFB80 /* EntryTableViewCell.swift in Sources */,
 				931AA9DF2398A15F00BBFB80 /* AppDelegate.swift in Sources */,
 				931AAA032398B85D00BBFB80 /* Entry.xcdatamodeld in Sources */,
-				931AAA072398C89B00BBFB80 /* EntryController.swift in Sources */,
 				931AA9E12398A15F00BBFB80 /* SceneDelegate.swift in Sources */,
 				931AAA052398BA4300BBFB80 /* Entry+Convenience.swift in Sources */,
 				931AAA002398B68F00BBFB80 /* CoreDataStack.swift in Sources */,
